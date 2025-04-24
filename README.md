@@ -21,7 +21,7 @@ A simple and fun 3D-printable gripper that anyone can print, build, and use — 
 5. and then use a motor which would be attached to the  bottom of the worm screw and the rotation would make the gripped work and then you are goof to go.
 
 ## priview of the assembles gripper
-![Gripper Preview](gripper_image1.jpg)
+![Gripper Preview](gripper_image1.png)
 
 ## License
 
