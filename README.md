@@ -16,13 +16,13 @@ A simple and fun 3D-printable gripper that anyone can print, build, and use — 
 
 1. Download the STL files.
 2. Open them in your 3D slicer software (e.g., Cura, PrusaSlicer).
-3. Slice them and print on your 3D printer.
+3. Slice and print them using your 3D printer.
 4. Assemble the parts.
-5. and then use a motor which would be attached to the  bottom of the worm screw and the rotation would make the gripped work and then you are goof to go.
+5. Attach a motor to the bottom of the worm screw — the rotation of the motor will drive the gripper mechanism. Once assembled, you’re good to go!
 
-## priview of the assembles gripper
+## Preview of the Assembled Gripper
+
 <img src="gripper_image1.png" alt="Gripper Preview" width="300"/>
-
 
 ## License
 
