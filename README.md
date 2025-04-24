@@ -4,16 +4,24 @@ A simple and fun 3D-printable gripper that anyone can print, build, and use — 
 
 ## What's Included
 
-- `gripper_base.stl`: The main part of the gripper
-- `finger_part1.stl`: The first finger part
-- `finger_part2.stl`: The second finger part
+- `worm_screw.stl`: The worm screw
+- `toothed_wheel.stl`: The toothed wheel (print **3 times**)
+- `base.stl`: The main base
+- `rear_arm.stl`: The rear arm (print **3 times**)
+- `jaw.stl`: The jaw (print **3 times**)
+- `closing_part.stl`: The closing part
+- `jaw_flexible_part.stl`: The jaw flexible part (print **3 times**)
 
 ## How to Use
 
 1. Download the STL files.
 2. Open them in your 3D slicer software (e.g., Cura, PrusaSlicer).
 3. Slice them and print on your 3D printer.
-4. Assemble the parts and you’re good to go!
+4. Assemble the parts.
+5. and then use a motor which would be attached to the  bottom of the worm screw and the rotation would make the gripped work and then you are goof to go.
+
+## priview of the assembles gripper
+![Gripper Preview](gripper_image1.jpg)
 
 ## License
 
