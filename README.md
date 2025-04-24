@@ -22,7 +22,7 @@ A simple and fun 3D-printable gripper that anyone can print, build, and use — 
 
 ## Preview of the Assembled Gripper
 
-<img src="gripper_image1.png" alt="Gripper Preview" width="300"/>
+<img src="images/gripper_image1.png" alt="Gripper Preview" width="300"/>
 
 ## License
 
